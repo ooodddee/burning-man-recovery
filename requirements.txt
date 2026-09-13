@@ -1,0 +1,10 @@
+earthengine-api
+numpy
+pandas
+scipy
+matplotlib
+scikit-image
+torch
+transformers
+pyproj
+Pillow

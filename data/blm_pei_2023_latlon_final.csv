@@ -1,0 +1,34 @@
+site_id,category,lat,lon,debris_ft2_per_acre,value_source,notes
+The_Man,POI,40.7863826923992,-119.20350530741331,0.1,Appendix B (p.8),POI since 2013; not included in 2023 official overall pass/fail stats per report text
+The_Temple,POI,40.79124287284801,-119.19710016588718,0.76,Appendix B (p.8),POI since 2013; not included in 2023 official overall pass/fail stats
+USS,POI,40.776994604583365,-119.223800722848,0.9,Appendix B (p.8),POI since 2013; not included in 2023 official overall pass/fail stats
+DPW,POI,40.77099685765487,-119.2153069465436,0.02,Appendix B (p.8),POI since 2013; not included in 2023 official overall pass/fail stats
+JOC,POI,40.76899885148778,-119.25150660223832,0.29,Appendix B (p.8),POI since 2013; not included in 2023 official overall pass/fail stats
+HEaT,POI,40.77970498417441,-119.20790590690208,1.02,Appendix B (p.8),Only POI exceeding 1ft2/acre standard in 2023
+CG_56,CG_exceeding,40.794354653271846,-119.20820175539082,2.64,Table 2 (p.8),Within official 120-point random sample; City Grid
+CG_58,CG_exceeding,40.79507619193429,-119.21660535193634,1.61,Table 2 (p.8),Within official 120-point random sample; City Grid
+CG_59,CG_exceeding,40.79529898197108,-119.21860398178221,1.08,Table 2 (p.8),Within official 120-point random sample; City Grid
+BU_CG_12,CG_exceeding_backup,40.79195223890808,-119.21370436212004,3.74115,Appendix A (p.13),Backup point replacing CG_60; counted in official stats; City Grid
+CG_62,CG_exceeding,40.79909721810592,-119.21500860926272,1.04,Table 2 (p.8),Within official 120-point random sample; City Grid
+CG_63,CG_exceeding,40.80100233536205,-119.20960750731803,1.66,Table 2 (p.8),Within official 120-point random sample; City Grid
+CG_68,CG_exceeding,40.782603150366185,-119.2146024974281,1.04,Table 2 (p.8),Within official 120-point random sample; City Grid
+CG_73,CG_exceeding,40.770969879976235,-119.20260482690155,1.17,Table 2 (p.8),Within official 120-point random sample; City Grid
+CG_81,CG_exceeding,40.77471189477831,-119.20570252153966,1.06,Table 2 (p.8),Within official 120-point random sample; City Grid
+BU_CG_20,CG_exceeding_backup,40.77959169308699,-119.19591025874269,1.13115,Appendix A (p.13),Backup point replacing CG_91; counted in official stats; City Grid
+CG_94,CG_exceeding,40.781035402359436,-119.19530607863125,1.04,Table 2 (p.8),Within official 120-point random sample; City Grid
+CG_60,replaced_excluded,40.79530546623181,-119.2206072662172,4.54,Appendix A (p.13),Measured but EXCLUDED from official stats; replaced by BU_CG_12
+CG_70,replaced_excluded,40.78420110890015,-119.22190810803097,1.42,Appendix A (p.13),Measured but EXCLUDED from official stats; replaced by BU_CG_15
+CG_80,replaced_excluded,40.77418560216116,-119.20260443671293,1.3,Appendix A (p.13),Measured but EXCLUDED from official stats; replaced by BU_CG_16
+CG_82,replaced_excluded,40.77585868598561,-119.20790884047098,1.44,Appendix A (p.13),Measured but EXCLUDED from official stats; replaced by BU_CG_17
+CG_91,replaced_excluded,40.77914458265441,-119.19100163106546,1.78,Appendix A (p.13),Measured but EXCLUDED from official stats; replaced by BU_CG_20
+OP_16,replaced_excluded,40.799708913311584,-119.19810247444829,1.19,Appendix A (p.13),Measured but EXCLUDED from official stats; replaced by BU_OP_3
+OP_35,replaced_excluded,40.800916227610145,-119.18291056099106,1.81,Appendix A (p.13),Measured but EXCLUDED from official stats; replaced by BU_OP_5
+OP_39,replaced_excluded,40.78478894895807,-119.1869091235825,1.66,Appendix A (p.13),Measured but EXCLUDED from official stats; replaced by BU_OP_9
+Other_112,replaced_excluded,40.76999455720214,-119.2097998766445,1.5,Appendix A (p.13),Measured but EXCLUDED from official stats; replaced by BU_WIC_34
+BU_CG_15,backup_passed,40.78696911527347,-119.22130119995116,0.63884,Appendix A (p.13),Replacement for CG_70; counted in official stats; passed standard
+BU_CG_16,backup_passed,40.773902876160605,-119.20891044246412,0.69292,Appendix A (p.13),Replacement for CG_80; counted in official stats; passed standard
+BU_CG_17,backup_passed,40.77636893381428,-119.20100585432156,0.17233,Appendix A (p.13),Replacement for CG_82; counted in official stats; passed standard
+BU_OP_3,backup_passed,40.80268651021037,-119.18931038691564,0.08117,Appendix A (p.13),Replacement for OP_16; counted in official stats; passed standard
+BU_OP_5,backup_passed,40.78435281948864,-119.18330408931234,0.31543,Appendix A (p.13),Replacement for OP_35; counted in official stats; passed standard
+BU_OP_9,backup_passed,40.79349675512144,-119.20030347521018,0.25558,Appendix A (p.13),Replacement for OP_39; counted in official stats; passed standard
+BU_WIC_34,backup_passed,40.7737726526395,-119.18500736228019,0.06393,Appendix A (p.13),Replacement for Other_112; counted in official stats; passed standard
